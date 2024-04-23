@@ -11,7 +11,7 @@ The Recipes are sourced from  [All Recipes](https://allrecipes.com).
 - Main index page with links to three recipes pages.
 - Recipes sourced from All Recipes.
 - Basic HTML structure.
-## Skills Learnded
+## Skills Learned
 - Setting up a Github repository
 - Basic git commands
 - Creating a HTML boilerplate
