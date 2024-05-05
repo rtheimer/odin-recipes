@@ -1,6 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-family: Helvetica, sans-serif;
+    background-color: wheat;
+}
 header {
     text-align: center;
     color: white;
+    font-size: 25px;
     background-color: #0033cc;
-    padding: 1px;
+    padding: 10px;
 }
+h3,
+h2 {
+    color: crimson;
+    margin-top: 20px;
+    background-color: #65BA74;
+    padding: 5px
+}
+ul {
+    list-style-type: none;
+}
+li {
+    text-align: left;
+    margin-left: 150px;
+}
+.container {
+    padding: 10px;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+.container p,ul,ol {
+    color: #027864;
+    margin: 20px;
+}
+
